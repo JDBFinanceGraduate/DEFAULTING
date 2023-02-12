@@ -14,3 +14,7 @@ MARRIAGE = CASE
     WHEN MARRIAGE = 2 THEN 'single'
     WHEN MARRIAGE = 3 THEN 'others'
 END;
+
+/*
+Replaces numbers in these columns with words in order to clean the data.
+*\
