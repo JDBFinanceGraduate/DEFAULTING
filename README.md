@@ -1,2 +1,2 @@
-# DEFAULTING
-ANALYZING DEFAULTING CREDIT CARD PAYERS USING SQL AND TBLEAU
+# DEFAULTERS
+Analyzing deafaulting credit card payers using SQL and Tableau
